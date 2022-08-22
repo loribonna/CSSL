@@ -1,4 +1,6 @@
-Official code implementation for "Continual Semi-Supervised Learning through Contrastive Interpolation Consistency" - Accepted at [Pattern Recognition Letters 2022](https://www.sciencedirect.com/science/article/pii/S0167865522002458)  
+## NOTE: THE OFFICIAL CODE IS NOW MOVED TO A [NEW REPOSITORY](https://github.com/aimagelab/CSSL)
+
+[Not maintained] Code implementation for "Continual Semi-Supervised Learning through Contrastive Interpolation Consistency" - Accepted at [Pattern Recognition Letters 2022](https://www.sciencedirect.com/science/article/pii/S0167865522002458)  
 
 
 To run the experiments:
